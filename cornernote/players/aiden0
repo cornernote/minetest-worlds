@@ -1,0 +1,63 @@
+hp = 20
+name = aiden
+pitch = 8.59
+position = (260,-11.77,-50)
+version = 1
+yaw = -245.79
+PlayerArgsEnd
+List main 32
+Width 0
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 0
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

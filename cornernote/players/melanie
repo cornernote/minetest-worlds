@@ -1,0 +1,79 @@
+hp = 10
+name = melanie
+pitch = 12.38
+position = (171.47,-375,-2497.47)
+version = 1
+yaw = 214.97
+PlayerArgsEnd
+List main 32
+Width 0
+Item moreores:silver_lump 5
+Item default:sapling 24
+Item default:torch 51
+Item default:gravel 99
+Item default:pick_mese 1 3993
+Item default:stone 74
+Item default:iron_lump 70
+Item default:axe_stone 1 1092
+Item default:cobble 99
+Item moreores:copper_lump 15
+Item moreores:tin_lump 8
+Item moreores:gold_lump 5
+Item default:coal_lump 99
+Item irontrees:irontree
+Empty
+Item irontrees:iron_leaves 5
+Item default:gravel 15
+Item default:cobble 99
+Empty
+Item default:cobble 96
+Empty
+Item default:cobble 99
+Item default:leaves 2
+Empty
+Item mesecons_torch:mesecon_torch_on 12
+Item default:paper 10
+Item default:coal_lump 77
+Item default:wood 99
+Item default:stick 56
+Item default:tree 12
+Item default:sand 30
+Item default:mese 48
+EndInventoryList
+List craft 9
+Width 0
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Item default:stick 17
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List bag1 1
+Width 0
+Empty
+EndInventoryList
+List bag2 1
+Width 0
+Empty
+EndInventoryList
+List bag3 1
+Width 0
+Empty
+EndInventoryList
+List bag4 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

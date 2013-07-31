@@ -1,0 +1,63 @@
+hp = 0
+name = lotto
+pitch = -15.1
+position = (35457.3,-325,36490.5)
+version = 1
+yaw = -269.8
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:axe_wood 1 10920
+Empty
+Item default:leaves 29
+Item default:wood 7
+Item default:stick 2
+Empty
+Item bucket:bucket_empty
+Item default:mese
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

@@ -1,0 +1,123 @@
+hp = 20
+name = Aiden
+pitch = 42.69
+position = (1087.39,250.93,508.98)
+version = 1
+yaw = 264.94
+PlayerArgsEnd
+List main 32
+Width 0
+Item gloopores:alatro_lump 17
+Item bags:small
+Item flowers:flower_tulip 4
+Item default:iron_lump 6
+Item default:cobble 99
+Item default:junglegrass
+Item conifers:sapling 25
+Item default:cactus 10
+Item homedecor:dresser_oak 2
+Item bags:small
+Item default:chest 2
+Item tnt:tnt 4
+Item default:torch
+Item default:dirt 13
+Item bobblocks:trap_grass 18
+Item default:stick 47
+Item default:cobble 99
+Item bones:bones 2
+Item vines:vines 10
+Item 3dforniture:chains 4
+Item default:steel_ingot 39
+Item irontrees:iron_leaves 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 0
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List bag1 1
+Width 0
+Item bags:small
+EndInventoryList
+List bag2 1
+Width 0
+Item bags:small
+EndInventoryList
+List bag3 1
+Width 0
+Item bags:small
+EndInventoryList
+List bag4 1
+Width 0
+Item bags:small
+EndInventoryList
+List bag1contents 8
+Width 0
+Item default:dirt 14
+Item sim_paint:canvas 2
+Item bones:bones 2
+Item default:leaves 17
+Item moreores:silver_lump 5
+Item moreores:tin_lump 6
+Item default:axe_wood 1 58968
+Item mesecons:wire_00000000_off 99
+EndInventoryList
+List bag2contents 8
+Width 0
+Item default:shovel_wood 1 26208
+Empty
+Item flowers:cotton 23
+Item default:pick_stone 1 29484
+Item irontrees:irontree 10
+Item wool:white 28
+Item poisonivy:seedling
+Item default:stone 13
+EndInventoryList
+List bag3contents 8
+Width 0
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List bag4contents 8
+Width 0
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+EndInventory

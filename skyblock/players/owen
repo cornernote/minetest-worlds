@@ -1,0 +1,63 @@
+hp = 20
+name = owen
+pitch = 40.29
+position = (32678.8,-392.68,34561.5)
+version = 1
+yaw = -191.19
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:stick
+Item default:leaves 6
+Item default:dirt 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

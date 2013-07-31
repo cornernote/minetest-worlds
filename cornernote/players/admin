@@ -1,0 +1,63 @@
+hp = 20
+name = admin
+pitch = 41.39
+position = (255,48.42,-520.4)
+version = 1
+yaw = 327.8
+PlayerArgsEnd
+List main 32
+Width 0
+Item conifers:sapling 3
+Item conifers:leaves 49
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 0
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

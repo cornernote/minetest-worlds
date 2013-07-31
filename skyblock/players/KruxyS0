@@ -1,0 +1,63 @@
+hp = 0
+name = KruxyS
+pitch = -19.29
+position = (28244.4,-5,35155.1)
+version = 1
+yaw = -298.4
+PlayerArgsEnd
+List main 32
+Width 0
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Item default:leaves
+Empty
+Item default:leaves 2
+Empty
+Item default:leaves 3
+Empty
+Empty
+Item default:stick
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

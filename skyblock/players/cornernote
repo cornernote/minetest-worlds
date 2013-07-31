@@ -1,0 +1,63 @@
+hp = 20
+name = cornernote
+pitch = 3.59
+position = (29455.5,45,32642.4)
+version = 1
+yaw = -297.99
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:wood 87
+Item default:leaves 7
+Item default:papyrus 2
+Item default:stick 98
+Item default:jungletree
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

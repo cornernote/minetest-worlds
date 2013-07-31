@@ -1,0 +1,63 @@
+hp = 12
+name = madison
+pitch = -28.49
+position = (-523.55,145,-1107.14)
+version = 1
+yaw = -46.77
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:pick_wood 1 24024
+Item flowers:flower_tulip 3
+Item default:dirt 6
+Item bobblocks:trap_spike_major
+Item default:leaves 99
+Item default:axe_stone 1 4368
+Item bobblocks:trap_grass 30
+Item default:stick 35
+Item flowers:flower_dandelion_yellow
+Item default:leaves 59
+Item default:sapling 4
+Item default:cobble 2
+Item default:ladder
+Item default:wood 17
+Item default:leaves 99
+Item conifers:leaves 68
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 0
+Item default:stick
+Empty
+Item default:stick
+Item default:stick
+Item default:stick
+Item default:stick
+Empty
+Empty
+Item default:stick
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

@@ -1,0 +1,63 @@
+hp = 20
+name = Lipy
+pitch = 16.49
+position = (32002,45,35195.6)
+version = 1
+yaw = -300.39
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:leaves 55
+Item default:tree 4
+Item default:apple 4
+Empty
+Empty
+Empty
+Empty
+Item default:axe_wood 1 21840
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

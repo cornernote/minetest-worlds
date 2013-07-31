@@ -1,0 +1,13 @@
+RealBadAngel::shout,interact
+brett::privs,teleport,server,settime,bring,basic_privs,password,ban,shout,fast,fly,worldedit,interact,give
+cornernote::privs,teleport,server,settime,bring,basic_privs,password,ban,shout,fast,fly,worldedit,interact,give
+Aiden5::shout,interact
+melanie::privs,teleport,server,settime,bring,basic_privs,password,ban,shout,fast,fly,worldedit,interact,give
+madi::fly,interact,shout,fast
+madison::shout,interact
+admin::shout,interact
+singleplayer::shout,interact
+Aiden::fly,interact,shout,fast
+aiden::shout,interact
+Aiden6::shout,interact
+mad::shout,interact

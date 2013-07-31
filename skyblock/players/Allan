@@ -1,0 +1,63 @@
+hp = 20
+name = Allan
+pitch = 48.49
+position = (35843.1,25,34568.8)
+version = 1
+yaw = 98.18
+PlayerArgsEnd
+List main 32
+Width 0
+Empty
+Item default:axe_wood 1 10920
+Item default:tree 5
+Item default:dirt 7
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Item default:leaves 3
+Item default:leaves 12
+Item default:leaves 17
+Item default:leaves 3
+Empty
+Item default:stick 2
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

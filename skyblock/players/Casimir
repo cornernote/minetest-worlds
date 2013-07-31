@@ -1,0 +1,63 @@
+hp = 20
+name = Casimir
+pitch = -7.9
+position = (34548,25,33888)
+version = 1
+yaw = 270.22
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:cobble 9
+Empty
+Empty
+Empty
+Empty
+Item default:pick_stone 1 57876
+Item default:axe_wood 1 19656
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Item default:stone 5
+Item default:stone_with_iron 4
+Item default:stone_with_coal 4
+Item bucket:bucket_empty
+Empty
+Empty
+Empty
+Item default:sandstone 4
+Item default:desert_stone 2
+Item default:leaves 29
+Item default:wood 13
+Item default:stick 25
+Empty
+Item default:mese 2
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Item default:gravel 11
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Item default:dirt 2
+EndInventoryList
+List craftresult 1
+Width 0
+Item default:dirt 58
+EndInventoryList
+EndInventory

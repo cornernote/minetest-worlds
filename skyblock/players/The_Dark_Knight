@@ -1,0 +1,63 @@
+hp = 20
+name = The_Dark_Knight
+pitch = 57.5
+position = (28161.5,45,34559.5)
+version = 1
+yaw = 269.82
+PlayerArgsEnd
+List main 32
+Width 0
+Item bucket:bucket_empty
+Item default:pick_wood 1 48048
+Item default:mese 2
+Item default:tree 2
+Item default:axe_wood 1 10920
+Item default:cobble 5
+Empty
+Empty
+Item default:desert_stone
+Item default:sandstone 3
+Item default:leaves 18
+Item default:stone_with_coal 2
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Item default:stone 3
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

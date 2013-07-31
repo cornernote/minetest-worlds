@@ -1,0 +1,63 @@
+hp = 20
+name = DS
+pitch = 44.5
+position = (28806.2,45,35198.4)
+version = 1
+yaw = 10.02
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:dirt
+Item default:tree 3
+Item default:leaves 41
+Empty
+Item default:axe_wood 1 10920
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Item default:stick 2
+Empty
+Item default:mese
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Item default:tree 2
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Item default:wood 4
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

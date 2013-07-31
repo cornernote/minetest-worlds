@@ -1,0 +1,63 @@
+hp = 20
+name = MrArtur
+pitch = -66.9
+position = (33823.8,45,35830.3)
+version = 1
+yaw = -273.79
+PlayerArgsEnd
+List main 32
+Width 0
+Empty
+Item default:axe_wood 1 32760
+Item default:leaves 32
+Item default:apple 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Item default:tree 5
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Item default:wood 4
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

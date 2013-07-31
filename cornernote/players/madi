@@ -1,0 +1,79 @@
+hp = 19
+name = madi
+pitch = 7.86
+position = (-5806.14,518.81,-4233.35)
+version = 1
+yaw = -65.95
+PlayerArgsEnd
+List main 32
+Width 0
+Item bones:bones 2
+Item default:dirt 6
+Item conifers:sapling
+Item conifers:leaves 7
+Item default:sword_wood 1 2184
+Item default:junglegrass
+Item flowers:flower_dandelion_yellow
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 0
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List bag1 1
+Width 0
+Empty
+EndInventoryList
+List bag2 1
+Width 0
+Empty
+EndInventoryList
+List bag3 1
+Width 0
+Empty
+EndInventoryList
+List bag4 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

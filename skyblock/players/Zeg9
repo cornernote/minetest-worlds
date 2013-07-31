@@ -1,0 +1,63 @@
+hp = 20
+name = Zeg9
+pitch = 73.5
+position = (31364.8,45,33922)
+version = 1
+yaw = 281.19
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:axe_wood 1 10920
+Item default:leaves 30
+Item default:apple 5
+Item default:tree 3
+Item default:stick 3
+Item default:wood
+Empty
+Item bucket:bucket_empty
+Item default:dirt 4
+Empty
+Empty
+Empty
+Item default:tree
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Item default:wood
+Item default:wood
+Item default:wood
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Item stairs:slab_wood 3
+EndInventoryList
+List craftresult 1
+Width 0
+Item default:pick_wood
+EndInventoryList
+EndInventory

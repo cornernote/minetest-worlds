@@ -1,0 +1,63 @@
+hp = 20
+name = daniovision
+pitch = 73.3
+position = (28799.5,45,35214.7)
+version = 1
+yaw = 169.84
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:stick
+Item default:leaves 33
+Item default:axe_wood 1 10920
+Empty
+Item default:mese
+Item default:wood 7
+Item default:stick 7
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Item default:leaves
+Item default:leaves
+Item default:leaves
+Item default:leaves 2
+Item default:leaves
+Item default:leaves
+Empty
+Item default:stick
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Item default:sapling
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

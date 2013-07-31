@@ -1,0 +1,63 @@
+hp = 20
+name = crazi32
+pitch = 29.29
+position = (35848.2,35,29449.2)
+version = 1
+yaw = 151.03
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:stick
+Item default:clay_lump 32
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Item default:leaves 6
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

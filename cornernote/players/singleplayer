@@ -1,0 +1,86 @@
+hp = 20
+name = singleplayer
+pitch = -1.48
+position = (56.65,-35,-381.05)
+version = 1
+yaw = 156.58
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:axe_wood 1 13104
+Item default:tree 41
+Item default:leaves 99
+Item vines:vines 7
+Item default:dirt 6
+Item default:leaves 99
+Item default:wood 4
+Item default:sapling 44
+Item default:leaves 49
+Item default:leaves 99
+Item default:leaves 99
+Empty
+Empty
+Empty
+Empty
+Item default:stick 2
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 4
+Width 2
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List bag1 1
+Width 0
+Empty
+EndInventoryList
+List bag2 1
+Width 0
+Empty
+EndInventoryList
+List bag3 1
+Width 0
+Empty
+EndInventoryList
+List bag4 1
+Width 0
+Empty
+EndInventoryList
+List workbench3 1
+Width 0
+Empty
+EndInventoryList
+List workbench4 1
+Width 0
+Empty
+EndInventoryList
+List workbench5 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

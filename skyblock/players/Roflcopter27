@@ -1,0 +1,63 @@
+hp = 20
+name = Roflcopter27
+pitch = 30.5
+position = (31346.7,35,28168.8)
+version = 1
+yaw = -115.83
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:dirt 7
+Item default:leaves 38
+Empty
+Empty
+Item default:mese
+Item default:shovel_wood 1 21840
+Item default:water_source
+Item default:axe_wood 1 10920
+Empty
+Empty
+Empty
+Empty
+Item default:tree 2
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Item default:wood 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Item default:stick 4
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

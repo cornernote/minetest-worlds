@@ -1,0 +1,63 @@
+hp = 0
+name = GamEr
+pitch = 51.9
+position = (31365,-616.78,35833.7)
+version = 1
+yaw = 46.18
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:stick
+Item default:leaves 6
+Item default:dirt 2
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

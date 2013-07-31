@@ -1,0 +1,63 @@
+hp = 20
+name = ano_ubeccu
+pitch = 78.5
+position = (30729.5,285.9,35847.3)
+version = 1
+yaw = -204.16
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:tree 4
+Empty
+Item default:axe_wood 1 19656
+Item default:stick
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

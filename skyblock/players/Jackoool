@@ -1,0 +1,63 @@
+hp = 20
+name = Jackoool
+pitch = 58.1
+position = (28166.8,45,28169.2)
+version = 1
+yaw = 45.79
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:leaves 9
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Item default:leaves
+Item default:leaves
+Item default:leaves
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

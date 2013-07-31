@@ -1,0 +1,63 @@
+hp = 20
+name = SirFeraudi
+pitch = -18.49
+position = (28802.7,45,36482.2)
+version = 1
+yaw = -24.53
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:stick
+Item default:leaves 4
+Item default:dirt
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

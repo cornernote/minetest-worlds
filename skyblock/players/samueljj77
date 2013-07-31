@@ -1,0 +1,63 @@
+hp = 20
+name = samueljj77
+pitch = 68.69
+position = (32000,45,34560)
+version = 1
+yaw = -322.98
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:stick
+Item default:leaves 6
+Item default:dirt 8
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

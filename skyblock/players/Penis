@@ -1,0 +1,63 @@
+hp = 20
+name = Penis
+pitch = 33.69
+position = (31357.7,45,29430.4)
+version = 1
+yaw = 178.17
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:axe_wood 1 10920
+Item default:tree 5
+Item default:leaves 28
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

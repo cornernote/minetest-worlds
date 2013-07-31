@@ -1,0 +1,63 @@
+hp = 20
+name = TaCoS
+pitch = 0.89
+position = (35230.8,25,32000.3)
+version = 1
+yaw = -185.67
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:pick_wood 1 48048
+Item default:dirt 48
+Item default:desert_sand 8
+Item default:sand 8
+Empty
+Item default:sandstone 3
+Item default:desert_stone
+Empty
+Item default:mese
+Item default:coal_lump
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

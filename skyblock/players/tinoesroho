@@ -1,0 +1,63 @@
+hp = 20
+name = tinoesroho
+pitch = 12.9
+position = (34568.6,35,32644.6)
+version = 1
+yaw = 142
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:wood 16
+Item default:axe_wood 1 21840
+Item default:dirt 9
+Item bucket:bucket_empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Item default:stick
+Item default:mese
+Item default:leaves 52
+Item default:water_source
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Item default:leaves 2
+Item default:leaves 2
+Item default:leaves 2
+Item default:leaves
+Item default:leaves 2
+Item default:leaves 2
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

@@ -1,0 +1,63 @@
+hp = 20
+name = vano
+pitch = 58.39
+position = (34578.3,35,33919.6)
+version = 1
+yaw = -259.59
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:stick
+Item default:leaves 6
+Item default:dry_shrub
+Item default:dirt 2
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

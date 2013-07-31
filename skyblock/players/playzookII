@@ -1,0 +1,63 @@
+hp = 20
+name = playzookII
+pitch = 37.09
+position = (28161.4,45,30718.1)
+version = 1
+yaw = 198.8
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:axe_wood 1 10920
+Item default:stick 2
+Empty
+Item default:apple 4
+Item default:leaves 26
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Item default:wood 2
+Item default:wood 2
+Item default:wood 2
+Empty
+Item default:mese
+Item default:wood
+Empty
+Empty
+Item default:wood
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

@@ -1,0 +1,63 @@
+hp = 20
+name = Aiden5
+pitch = 14.06
+position = (612.17,145,-2895.58)
+version = 1
+yaw = 277.59
+PlayerArgsEnd
+List main 32
+Width 0
+Item flowers:flower_dandelion_yellow
+Item flowers:flower_rose
+Item flowers:flower_tulip 2
+Item default:apple
+Item flowers:flower_cotton
+Item flowers:flower_waterlily 3
+Item default:junglegrass
+Item flowers:flower_geranium
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 0
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

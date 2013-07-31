@@ -1,0 +1,63 @@
+hp = 20
+name = GracieGirl
+pitch = 89.5
+position = (35200,45,32000)
+version = 1
+yaw = 117.02
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:stick
+Item default:leaves 2
+Item default:dirt
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

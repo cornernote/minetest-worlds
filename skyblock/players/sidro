@@ -1,0 +1,63 @@
+hp = 20
+name = sidro
+pitch = 38.69
+position = (32637.9,35,33929)
+version = 1
+yaw = -86.82
+PlayerArgsEnd
+List main 32
+Width 0
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Item default:clay_lump 6
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Item default:leaves 6
+Empty
+Empty
+Item default:stick
+Empty
+Empty
+Item default:clay_lump 6
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

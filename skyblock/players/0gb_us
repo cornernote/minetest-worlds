@@ -1,0 +1,63 @@
+hp = 0
+name = 0gb_us
+pitch = 39.09
+position = (33295.5,-325,32652.8)
+version = 1
+yaw = -81.27
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:chest
+Item default:dirt 19
+Item default:leaves 22
+Item bucket:bucket_empty
+Empty
+Empty
+Empty
+Item default:mese
+Item default:tree
+Item default:jungletree 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

@@ -1,0 +1,63 @@
+hp = 20
+name = WolfNightcaller
+pitch = 46.3
+position = (28803.3,45,33273.2)
+version = 1
+yaw = -8.02
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:axe_wood 1 10920
+Item default:stick 2
+Item default:tree 5
+Item default:leaves 29
+Item default:mese
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

@@ -1,0 +1,63 @@
+hp = 20
+name = Treebark4000
+pitch = 19.08
+position = (34538,-25,30070.3)
+version = 1
+yaw = -257.62
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:leaves 99
+Item default:leaves 99
+Item default:leaves 99
+Item default:mese 99
+Item default:fence_wood 4
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

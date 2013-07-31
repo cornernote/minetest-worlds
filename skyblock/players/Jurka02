@@ -1,0 +1,63 @@
+hp = 20
+name = Jurka02
+pitch = 56.9
+position = (33277.3,45,33921.1)
+version = 1
+yaw = 175.7
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:stick
+Empty
+Item default:dirt 2
+Empty
+Item default:leaves 4
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

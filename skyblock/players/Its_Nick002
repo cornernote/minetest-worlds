@@ -1,0 +1,63 @@
+hp = 20
+name = Its_Nick002
+pitch = 0
+position = (35249.3,105,31924.4)
+version = 1
+yaw = 0
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:pick_mese 1 1573
+Item default:tree 6
+Item default:leaves 34
+Item default:cobble 4
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

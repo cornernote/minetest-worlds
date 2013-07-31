@@ -1,0 +1,63 @@
+hp = 20
+name = BossWorld
+pitch = 16.48
+position = (30727.4,45,35192.4)
+version = 1
+yaw = -154.85
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:stick
+Empty
+Item default:dirt
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Item default:leaves 2
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Item default:leaves
+Item default:leaves
+Empty
+Item default:leaves
+Item default:leaves
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

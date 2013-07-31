@@ -1,0 +1,63 @@
+hp = 6
+name = brett
+pitch = 20.58
+position = (330.42,75,421.4)
+version = 1
+yaw = 263.39
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:pick_stone 1 40404
+Item default:desert_sand 9
+Item flowers:flower_cotton
+Item default:papyrus 4
+Item default:junglegrass
+Item default:leaves 99
+Item default:torch 3
+Item madblocks:slimstonebrick 3
+Item default:pick_stone 1 43680
+Item default:stick 5
+Item madblocks:marblestonebrick
+Item madblocks:dye_black 6
+Item default:cobble 3
+Item default:tree 14
+Item default:sapling 10
+Item vines:vines 13
+Item default:leaves 40
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Item wool:red 16
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 0
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

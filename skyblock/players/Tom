@@ -1,0 +1,63 @@
+hp = 0
+name = Tom
+pitch = 5.49
+position = (32124,-1490.97,34003.5)
+version = 1
+yaw = -284.4
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:stick
+Item default:leaves 5
+Item default:dirt 2
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

@@ -1,0 +1,133 @@
+hp = 20
+name = cornernote
+pitch = 0
+position = (1181.31,195,485.67)
+version = 1
+yaw = 0
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:pick_stone 1 21840
+Item default:desert_sand 27
+Item mesecons_detector:object_detector_off 10
+Item default:cobble 99
+Item default:mossycobble 2
+Item default:torch 33
+Item dye:red
+Item tnt:tnt 2
+Item default:sand 28
+Item default:dirt 99
+Item default:stone 6
+Item default:ladder
+Item default:glass 2
+Item default:coal_lump 43
+Item default:mese 9
+Item default:axe_stone 1 38220
+Item default:stick 89
+Item bones:bones 2
+Item default:dirt 99
+Item default:sapling 4
+Item workers:cop
+Item tnt:gunpowder 13
+Item default:wood 25
+Item plants:colchicum_wild
+Item default:cobble 99
+Item default:shovel_steel 1 19360
+Item bags:medium
+Item bushes:strawberry 8
+Item default:dirt 19
+Item default:mese 4
+Item bobblocks:trap_grass 6
+Item plants:lavender_wild 2
+EndInventoryList
+List craft 9
+Width 0
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List bag1 1
+Width 0
+Item bags:large
+EndInventoryList
+List bag2 1
+Width 0
+Item bags:large
+EndInventoryList
+List bag3 1
+Width 0
+Empty
+EndInventoryList
+List bag4 1
+Width 0
+Empty
+EndInventoryList
+List bag1contents 24
+Width 0
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Item dye:red
+Item dye:blue 2
+Empty
+Empty
+Item moreores:silver_ingot 2
+Item moreores:tin_lump 4
+Item default:iron_lump 44
+Empty
+Item gloopores:alatro_lump 7
+Item gloopores:kalite_lump 5
+EndInventoryList
+List bag2contents 24
+Width 0
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+EndInventory

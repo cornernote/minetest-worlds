@@ -1,0 +1,63 @@
+hp = 20
+name = Kruxys
+pitch = 31.69
+position = (28169.3,45,36489.3)
+version = 1
+yaw = -237.8
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:axe_wood 1 10920
+Empty
+Item default:leaves 24
+Empty
+Empty
+Item default:stick 2
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Item default:tree 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Item default:wood
+Item default:wood
+Item default:wood
+Item default:wood
+Empty
+Item default:wood
+Item default:wood
+Item default:wood
+Item default:wood
+EndInventoryList
+List craftpreview 1
+Width 0
+Item default:chest
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

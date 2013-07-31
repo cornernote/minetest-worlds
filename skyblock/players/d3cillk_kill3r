@@ -1,0 +1,63 @@
+hp = 0
+name = d3cillk_kill3r
+pitch = -27.69
+position = (33758,-325,33918)
+version = 1
+yaw = -9
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:stick
+Empty
+Item default:junglegrass
+Item default:dirt 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

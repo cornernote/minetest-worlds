@@ -1,0 +1,63 @@
+hp = 20
+name = Aiden6
+pitch = 13.4
+position = (-398.13,25,-11.33)
+version = 1
+yaw = 92.59
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:sapling 8
+Item default:axe_wood 1 4368
+Item default:wood 9
+Item default:stick 14
+Item flowers:flower_cotton 3
+Item default:tree 9
+Empty
+Empty
+Item default:torch
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 0
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

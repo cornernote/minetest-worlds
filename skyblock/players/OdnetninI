@@ -1,0 +1,63 @@
+hp = 0
+name = OdnetninI
+pitch = -89.5
+position = (28163.6,-645,32625.6)
+version = 1
+yaw = 333.88
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:dirt
+Item default:wood 13
+Item default:axe_wood 1 10920
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Item default:mese
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

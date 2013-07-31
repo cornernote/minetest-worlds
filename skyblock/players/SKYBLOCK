@@ -1,0 +1,63 @@
+hp = 20
+name = SKYBLOCK
+pitch = 0
+position = (28161.8,45,29462.8)
+version = 1
+yaw = 0
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:axe_wood 1 10920
+Empty
+Item default:leaves 44
+Item default:wood 13
+Empty
+Item default:stick 12
+Item default:tree
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Item default:stick 2
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory
