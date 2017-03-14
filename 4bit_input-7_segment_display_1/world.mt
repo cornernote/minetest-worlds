@@ -41,4 +41,4 @@ load_mod_worldedit_infinity = true
 load_mod_worldedit_limited = true
 load_mod_worldedit_shortcommands = true
 backend = sqlite3
-load_mod_singlenode = true
+load_mod_no_mapgen = true
