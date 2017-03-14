@@ -1,11 +1,13 @@
+breath = 11
 hp = 20
 name = singleplayer
-pitch = 3.9
-position = (215.72,35,492)
+pitch = 12.69
+position = (235.86,35,444.81)
 version = 1
-yaw = -185.31
+yaw = -181.58
 PlayerArgsEnd
 List main 32
+Width 0
 Empty
 Empty
 Empty
@@ -39,7 +41,12 @@ Empty
 Empty
 Empty
 EndInventoryList
+List hand 1
+Width 0
+Empty
+EndInventoryList
 List craft 9
+Width 3
 Empty
 Empty
 Empty
@@ -51,9 +58,11 @@ Empty
 Empty
 EndInventoryList
 List craftpreview 1
+Width 0
 Empty
 EndInventoryList
 List craftresult 1
+Width 0
 Empty
 EndInventoryList
 EndInventory
