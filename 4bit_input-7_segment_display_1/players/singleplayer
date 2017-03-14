@@ -1,45 +1,52 @@
-hp = 18
+breath = 11
+hp = 20
 name = singleplayer
-pitch = 3.49
-position = (71.48,25,1031.97)
+pitch = 0.59
+position = (64.47,33.09,1035.81)
 version = 1
-yaw = -178.19
+yaw = 178.59
 PlayerArgsEnd
 List main 32
-Item mesecons_microcontroller:microcontroller0000 44
-Item default:pick_mese 1 1936
-Item wool:pink 29
-Item default:cobble 21
-Item mesecons:wire_00000000_off 23
-Item wool:brown 34
-Item wool:violet 40
-Item mesecons_switch:mesecon_switch_off 44
-Item mesecons_lightstone:lightstone_blue_off 33
-Item mesecons_insulated:insulated_off 15
-Item wool:white 99
-Item air 4
+Width 0
+Item mesecons_switch:mesecon_switch_off
+Item mesecons_lightstone:lightstone_gray_off
+Item mesecons_microcontroller:microcontroller0000
+Item mesecons_insulated:insulated_off
 Empty
 Empty
 Empty
 Empty
 Empty
 Empty
-Item wool:white 8
 Empty
 Empty
-Item wool:orange 47
 Empty
-Item wool:black 34
 Empty
-Item wool:green 39
-Item mesecons_pistons:piston_sticky 36
 Empty
-Item wool:blue 31
 Empty
-Item wool:red 20
-Item default:torch 14
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List hand 1
+Width 0
+Empty
 EndInventoryList
 List craft 9
+Width 3
 Empty
 Empty
 Empty
@@ -51,9 +58,11 @@ Empty
 Empty
 EndInventoryList
 List craftpreview 1
+Width 0
 Empty
 EndInventoryList
 List craftresult 1
+Width 0
 Empty
 EndInventoryList
 EndInventory
